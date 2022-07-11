@@ -54,7 +54,7 @@ Hi，我是北熙宝宝，一个惨遭社会“毒打”的人。
 </tr>
 <tr>
 <td style="text-align: left;">目前精神状态</td>
-<td style="text-align: left;">亢奋备考中！！！ （<strong>2021年12月7日更新</strong>）</td>
+<td style="text-align: left;">裂开了</td>
 </tr>
 </tbody>
 </table>
