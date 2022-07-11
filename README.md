@@ -10,7 +10,7 @@ Hi，我是北熙宝宝，一个惨遭社会“毒打”的人。
 <tbody>
 <tr>
 <td style="text-align: left;">生日</td>
-<td style="text-align: left;">2000/09/13</td>
+<td style="text-align: left;">吃饼干的第二天</td>
 </tr>
 <tr>
 <td style="text-align: left;">特征</td>
@@ -18,11 +18,11 @@ Hi，我是北熙宝宝，一个惨遭社会“毒打”的人。
 </tr>
 <tr>
 <td style="text-align: left;">装备</td>
-<td style="text-align: left;">小米8屏幕指纹版、小米MIX2s、华硕FX80GE、IPAD2020</td>
+<td style="text-align: left;">小米8屏幕指纹版、红米K50、华硕FX80GE、IPAD2020</td>
 </tr>
 <tr>
 <td style="text-align: left;">工作/状态</td>
-<td style="text-align: left;">备考 <strong>教师资格证</strong> 证书中（<strong>2022年01月29日更新</strong>）</td>
+<td style="text-align: left;">无业靴子中</td>
 </tr>
 <tr>
 <td style="text-align: left;">最喜欢的作品</td>
