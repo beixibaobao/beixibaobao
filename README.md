@@ -23,7 +23,7 @@ Hi，我是北熙宝宝，一个惨遭社会“毒打”的人。
 </tbody>
 </table>
 <h2>作品？</h2>
-你觉得可能有吗？
+下次一定push上来！
 <h2>服务？</h2>
 <ol>
  	<li>北熙宝宝的二次元图片API - [<a title="开始了解" href="http://api.beixibaobao.com/pic-ecy/pc/rand.php">开始了解</a>]</li>
