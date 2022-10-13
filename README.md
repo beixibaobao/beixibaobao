@@ -17,44 +17,8 @@ Hi，我是北熙宝宝，一个惨遭社会“毒打”的人。
 <td style="text-align: left;">反应迟钝、记忆力差、外向？</td>
 </tr>
 <tr>
-<td style="text-align: left;">装备</td>
-<td style="text-align: left;">小米8屏幕指纹版、红米K50、华硕FX80GE、IPAD2020</td>
-</tr>
-<tr>
-<td style="text-align: left;">工作/状态</td>
-<td style="text-align: left;">无业靴子中</td>
-</tr>
-<tr>
 <td style="text-align: left;">最喜欢的作品</td>
 <td style="text-align: left;">可塑性记忆、CLANNAD、露蒂的玩具、月色真美、埃罗芒阿老师</td>
-</tr>
-<tr>
-<td style="text-align: left;">最喜欢的女孩子</td>
-<td style="text-align: left;">我家的大小姐</td>
-</tr>
-<tr>
-<td style="text-align: left;">最喜欢的游戏</td>
-<td style="text-align: left;">大概是没有的？</td>
-</tr>
-<tr>
-<td style="text-align: left;">最喜欢的颜色</td>
-<td style="text-align: left;">蓝色、粉色、白色</td>
-</tr>
-<tr>
-<td style="text-align: left;">最喜欢的食物</td>
-<td style="text-align: left;">冰激凌、松茸面包</td>
-</tr>
-<tr>
-<td style="text-align: left;">是否独立生活</td>
-<td style="text-align: left;">否（和父母住一起）</td>
-</tr>
-<tr>
-<td style="text-align: left;">是否财务自由</td>
-<td style="text-align: left;">是（独立管理财务）</td>
-</tr>
-<tr>
-<td style="text-align: left;">目前精神状态</td>
-<td style="text-align: left;">裂开了</td>
 </tr>
 </tbody>
 </table>
