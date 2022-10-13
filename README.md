@@ -36,13 +36,6 @@ Hi，我是北熙宝宝，一个惨遭社会“毒打”的人。
  	<li>bilibili <a title="@北熙宝宝" href="https://space.bilibili.com/305018129">@北熙宝宝</a></li>
  	<li>微博 <a title="@北熙宝宝" href="https://weibo.com/beixibaobao">@北熙宝宝-北小熙</a></li>
 </ol>
-游戏：
-<ol>
- 	<li>明日方舟（官服：北熙宝宝）</li>
- 	<li>光遇</li>
- 	<li>王者荣耀（安卓：北熙宝宝）</li>
- 	<li>原神（官服ID：100750471）</li>
-</ol>
 赞助：
 <ol>
  	<li>爱发电 @beixibaobao [<a title="点击赞助穷鬼" href="https://afdian.net/@beixibaobao">点击赞助穷鬼</a>]</li>
